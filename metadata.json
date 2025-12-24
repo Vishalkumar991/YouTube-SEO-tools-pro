@@ -1,0 +1,8 @@
+{
+  "name": "YouTube SEO Tools Pro (Enterprise)",
+  "description": "Enterprise-grade AI suite for YouTube dominance. Features Creator Dashboard, Auth, and 90-Point Deep Analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
